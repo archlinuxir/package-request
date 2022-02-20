@@ -1,2 +1,2 @@
 # package-request
-Package requests for adding to archlinuxir repository
+Submit an issue for your requested package here!
